@@ -4,10 +4,10 @@
   "bin": {
     "pino-new-relic": "dist/index.js"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/holmok/pino-newrelic.git"
+    "url": "git+https://github.com/holmok/pino-new-relic.git"
   },
   "keywords": [
     "pino",
